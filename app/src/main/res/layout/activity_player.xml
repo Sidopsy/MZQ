@@ -40,14 +40,14 @@
         <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:srcCompat="@android:drawable/ic_media_next"
+            app:srcCompat="@android:drawable/ic_media_play"
             android:id="@+id/imageButton3"
             android:layout_weight="1" />
 
         <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:srcCompat="@android:drawable/ic_media_play"
+            app:srcCompat="@android:drawable/ic_media_next"
             android:id="@+id/imageButton2"
             android:layout_weight="1" />
 
